@@ -1,0 +1,16 @@
+{
+  "tech_stack": [
+    "Next.js",
+    "Tailwind CSS",
+    "TypeScript",
+    "Playwright"
+  ],
+  "project_name": "eye-tracker",
+  "features": [
+    "Eye tracking cursor movement",
+    "Fluid CSS animations"
+  ],
+  "last_action": "Starting automated tests with MCP test-suite",
+  "status": "testing",
+  "last_updated": "2025-12-28T10:27:38.176191"
+}
